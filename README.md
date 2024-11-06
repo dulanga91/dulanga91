@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario Animation Banner" width="800px" />
+  <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario Animation Banner" width="100%" />
 </div>
 
 # Hi there, I'm Dulanga Weerasuriya 👋
