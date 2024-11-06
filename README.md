@@ -1,5 +1,9 @@
 # Hi there, I'm Dulanga Weerasuriya 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=FF5733&size=30&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Senior+Tech+Lead+%7C+Software+Engineer;Web+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+</div>
+
 I'm an **Online Entrepreneur, Web Developer, and Graphic Designer** with a background in **software engineering** and a leadership role as a **Senior Tech Lead at CeylonX**. I hold a **Bachelor of Information Technology** from the **University of Moratuwa**. My expertise spans **web development**, **graphic design**, and **AI-driven applications**, with hands-on experience in cloud services and modern development practices.
 
 ---
@@ -17,13 +21,15 @@ I'm an **Online Entrepreneur, Web Developer, and Graphic Designer** with a backg
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
+</p>
 
 ---
 
@@ -37,8 +43,10 @@ I'm an **Online Entrepreneur, Web Developer, and Graphic Designer** with a backg
 
 ## 📈 GitHub Stats
 
-![Dulanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=dulanga91&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanga91&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulanga91&show_icons=true&theme=dark&count_private=true" alt="Dulanga's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanga91&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
