@@ -4,10 +4,6 @@
 
 # Hi there, I'm Dulanga Weerasuriya 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=FF5733&size=30&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Senior+Tech+Lead+%7C+Software+Engineer;Web+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
-</div>
-
 I'm an **Online Entrepreneur, Web Developer, and Graphic Designer** with a background in **software engineering** and a leadership role as a **Senior Tech Lead at CeylonX**. I hold a **Bachelor of Information Technology** from the **University of Moratuwa**. My expertise spans **web development**, **graphic design**, and **AI-driven applications**, with hands-on experience in cloud services and modern development practices.
 
 ---
